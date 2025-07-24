@@ -16,6 +16,6 @@ class GreatestOfTwo {
 
         System.out.println("The greatest number is: " + greatest);
 
-        
+       sc.close();
     }
 }

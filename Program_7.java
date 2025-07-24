@@ -8,6 +8,6 @@ class Program_7 {
         int age = sc.nextInt(); 
        System.out.println((age >= 18) ? "The person is eligible to vote" : "The person is not eligible to vote");
 
-    
+    sc.close();
     }
 }

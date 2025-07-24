@@ -7,6 +7,7 @@ class Program_4 {
             System.out.println("Enter the Second number : ");
             int b = sc.nextInt();
             System.out.println("The sum of two numbers is : " + (a+b));
+            sc.close();
         }
     }
 
